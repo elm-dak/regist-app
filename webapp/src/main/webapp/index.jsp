@@ -32,6 +32,6 @@
   </div>
 
    
-   <h1> Good Bye</h1>
+   <h1> Have Good Day !</h1>
   
 </form>
